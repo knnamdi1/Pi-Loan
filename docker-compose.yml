@@ -34,7 +34,7 @@ services:
       MONGODB_DATABASE_NAME: ${piloan}
       MONGODB_USERNAME: ${knnamdi1}
       MONGODB_PASSWORD: ${24thking$}
-      FRONTEND_URL: ${https://piloan.com}
+      FRONTEND_URL: ${https://www.piloan.com}
 
   mongo:
     image: mongo:5.0
